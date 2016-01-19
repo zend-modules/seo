@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LocaleManager\\": "src/"
+            "Seo\\": "src/"
         }
     }
 }
